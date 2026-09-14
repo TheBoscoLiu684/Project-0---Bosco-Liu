@@ -3,7 +3,10 @@
 References
 GameManager Info
 https://youtu.be/4I0vonyqMi8?si=Y5OnIK1Pq8BZwGlw
+https://youtu.be/_4rVesSKN00?si=YsQKGusJ5zZ4_Pk9
 Using Null Info
 https://youtu.be/eUQ7W-VwtQQ?si=HeZzE23HTCVCnFSQ
 Saving across scenes
 https://youtu.be/j_eQGp-IbCE?si=FfZZYH07yf42JDaR
+https://youtu.be/msIo1BiuNJY?si=E4kz1upvJ_Ghwbw8
+https://youtu.be/Lud_cIFtIc0?si=t5yoreB86xlT6PPg
