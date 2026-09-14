@@ -13,3 +13,5 @@ https://youtu.be/Lud_cIFtIc0?si=t5yoreB86xlT6PPg
 https://learn.unity.com/tutorial/implement-data-persistence-between-scenes
 https://youtu.be/hzdADY2LkJU?si=1G18ytwj1cJCDW5b
 https://youtu.be/QG5i6DL7-to?si=z9146G0bPq3oZWlw
+https://youtu.be/UDY0edZZSdo?si=bEeRUpk0_zB3hk9O
+https://youtu.be/aPXvoWVabPY?si=otbA5aaUwFVN_Y1-
